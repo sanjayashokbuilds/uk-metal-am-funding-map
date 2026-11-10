@@ -1,0 +1,4 @@
+.cache/
+sample_gtr.json
+__pycache__/
+.DS_Store
